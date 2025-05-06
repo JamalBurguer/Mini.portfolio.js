@@ -1,0 +1,1 @@
+Sistema de registro de pessoas que classifica por faixa etária: menor de idade, adulto(a) ou idoso(a).

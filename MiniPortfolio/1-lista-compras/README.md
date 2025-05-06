@@ -1,0 +1,1 @@
+Simula uma lista de produtos com categorias e descontos aplicados com base na categoria.
